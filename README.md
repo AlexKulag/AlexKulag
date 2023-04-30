@@ -1,8 +1,7 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100"/>
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="300"/><img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="300"/><img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="300"/>
 </div>
 
-<iframe src="https://giphy.com/embed/WoD6JZnwap6s8" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-WoD6JZnwap6s8">via GIPHY</a></p>
 <!--
 **AlexKulag/AlexKulag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
